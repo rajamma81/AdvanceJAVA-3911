@@ -1,4 +1,4 @@
-package com.anudip.day2;
+package day02;
 /*Do - while --> 
  * 
  * First it will execute some set of instructions

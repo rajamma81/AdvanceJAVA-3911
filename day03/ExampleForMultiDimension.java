@@ -1,4 +1,4 @@
-package com.anudip.day3;
+package day03;
 
 import java.util.Scanner;
 

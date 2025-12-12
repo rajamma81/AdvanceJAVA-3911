@@ -1,3 +1,6 @@
+
+package day01;
+
 public class Exampleforconditional {
 
     //Conditional Statement --> Decision making statements

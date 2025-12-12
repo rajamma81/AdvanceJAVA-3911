@@ -1,4 +1,4 @@
-package com.anudip.day2;
+package day02;
 
 /* Looping statement -->
  * Repeat set of instructions

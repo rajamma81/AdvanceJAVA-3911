@@ -1,4 +1,4 @@
-package com.anudip.day2;
+package day02;
 /*While loop : 
  * While loop is a looping statement which keeps executing until condition 
  * becomes false.
